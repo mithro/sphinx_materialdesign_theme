@@ -1,4 +1,3 @@
-sphinx_material
 numpy>=1.16
 pandas
 matplotlib
@@ -11,3 +10,4 @@ ipykernel
 recommonmark
 sphinx_markdown_tables
 sphinx-copybutton
+-e ../
